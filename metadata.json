@@ -1,0 +1,6 @@
+{
+  "name": "Abu Bandar Electronics | ابو بندر إلكترونيات",
+  "description": "Full-stack inventory management, security system installation, and quotation portal for Abu Bandar Electronics in Jeddah, Saudi Arabia.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
